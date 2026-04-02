@@ -1,0 +1,35 @@
+{
+  "name": "safenet-backend",
+  "version": "1.0.0",
+  "description": "SafeNet Smart Safety Network - Backend API",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "jest --coverage --forceExit"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^6.7.0",
+    "express-validator": "^7.0.1",
+    "firebase-admin": "^11.9.0",
+    "helmet": "^7.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.3.1",
+    "morgan": "^1.10.0",
+    "node-cron": "^3.0.2",
+    "qrcode-terminal": "^0.12.0",
+    "socket.io": "^4.6.2",
+    "twilio": "^4.11.2",
+    "whatsapp-web.js": "^1.34.6",
+    "winston": "^3.9.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "nodemon": "^3.0.1",
+    "supertest": "^6.3.3"
+  }
+}

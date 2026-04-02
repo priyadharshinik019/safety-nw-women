@@ -1,0 +1,16 @@
+{"level":"error","message":"SOS notification pipeline error: accountSid must start with AC","service":"safenet-api","timestamp":"2026-03-21 19:37:26"}
+{"level":"error","message":"500 PATCH /api/sos/69bea61ea7fd2170a1f0939c/resolve — accountSid must start with AC","service":"safenet-api","timestamp":"2026-03-21 19:38:20"}
+{"level":"error","message":"SOS notification error: sendWhatsAppSOS is not a function","service":"safenet-api","timestamp":"2026-03-21 20:23:20"}
+{"level":"error","message":"500 PATCH /api/sos/69beb0e02cd60b61685ec00a/resolve — accountSid must start with AC","service":"safenet-api","timestamp":"2026-03-21 20:25:21"}
+{"level":"error","message":"SOS notification error: sendWhatsAppSOS is not a function","service":"safenet-api","timestamp":"2026-03-21 20:26:31"}
+{"level":"error","message":"500 PATCH /api/sos/69beb19f2cd60b61685ec073/resolve — accountSid must start with AC","service":"safenet-api","timestamp":"2026-03-21 20:27:20"}
+{"level":"error","message":"SOS notification error: accountSid must start with AC","service":"safenet-api","timestamp":"2026-03-21 21:13:49"}
+{"level":"error","message":"500 PATCH /api/sos/69bebcb5cbc292e79b766ee6/resolve — accountSid must start with AC","service":"safenet-api","timestamp":"2026-03-21 21:14:31"}
+{"level":"error","message":"SOS notification error: accountSid must start with AC","service":"safenet-api","timestamp":"2026-03-21 21:37:18"}
+{"level":"error","message":"500 PATCH /api/sos/69bec236cbc292e79b766f70/resolve — accountSid must start with AC","service":"safenet-api","timestamp":"2026-03-21 21:37:41"}
+{"level":"error","message":"SOS notification error: accountSid must start with AC","service":"safenet-api","timestamp":"2026-03-23 09:12:26"}
+{"level":"error","message":"500 PATCH /api/sos/69c0b6a1eed8374b640c1473/resolve — accountSid must start with AC","service":"safenet-api","timestamp":"2026-03-23 09:12:44"}
+{"level":"error","message":"SOS notification error: accountSid must start with AC","service":"safenet-api","timestamp":"2026-04-02 10:14:45"}
+{"level":"error","message":"500 PATCH /api/sos/69cdf43d71c25d4e62b0e1da/resolve — accountSid must start with AC","service":"safenet-api","timestamp":"2026-04-02 10:16:11"}
+{"level":"error","message":"SOS notification error: accountSid must start with AC","service":"safenet-api","timestamp":"2026-04-02 10:34:52"}
+{"level":"error","message":"500 PATCH /api/sos/69cdf8f4ae3d7aab4d91a30a/resolve — accountSid must start with AC","service":"safenet-api","timestamp":"2026-04-02 10:35:30"}
